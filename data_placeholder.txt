@@ -1,0 +1,1 @@
+The server creates data/requests.json automatically on first start.
